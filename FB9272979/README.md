@@ -22,6 +22,11 @@
      - while the transition is in progress, the second screen doesn't have a bottom toolbar [unexpected]
      - once the transition has completed, the bottom toolbar appears on the second screen [unexpected]
 
+### Screen recording
+
+https://user-images.githubusercontent.com/232107/124569094-ec176d00-de45-11eb-90bb-a50cdf0fb6e8.mp4
+
+
 ### Expected behaviour
 - top on "Navigate to view two (w/ toolbar)"
 - the second screen transitions in
