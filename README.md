@@ -1,5 +1,5 @@
 
-# Apple Fedback
+# Apple Feedback
 
 This repo contains sample projects I created for the feedbacks I filed.
 
