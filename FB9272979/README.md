@@ -13,7 +13,7 @@
   1) Top toolbar fades out while transitioning [expected]
   2) No effect observed in bottom toolbar while transitioning [expected]
 - navigate back to the menu screen
-- top on "Navigate to view two (w/ toolbar)"
+- tap on "Navigate to view two (w/ toolbar)"
 - Observe:
   1) Top toolbar fades out while transitioning [expected]
   2) Bottom toolbar
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/232107/124569094-ec176d00-de45-11eb-90
 
 
 ### Expected behaviour
-- top on "Navigate to view two (w/ toolbar)"
+- tap on "Navigate to view two (w/ toolbar)"
 - the second screen transitions in
 - the bottom toolbar is visible on the second screen _while the screen ransitions in_
 
