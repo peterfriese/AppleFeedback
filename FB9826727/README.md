@@ -2,7 +2,7 @@
 
 ###  Prerequisites
 
-- Version 13.2.1 (13C100)
+- Xcode Version 13.2.1 (13C100)
 - Simulators or physical devices running iOS 14.5 and iOS 15.x
 
 ###  Steps to reproduce
